@@ -147,6 +147,8 @@ project-root/
 ├── index.php              # Landing page
 └── test.sql               # Database schema and sample data
 
+```
+
 ## Usage Guide
 ### For Users
 * **Registration**: Create a new account with validated information.
